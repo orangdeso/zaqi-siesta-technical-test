@@ -40,4 +40,4 @@ lib/
 
 ## 📁 Documentation
 
-- [Technical Test Documentation](./docs/TECHNICAL_TEST_DOCUMENTATION.md) - Soal dan spesifikasi lengkap
+- [Technical Test Documentation](./docs/technical_test_documentation.md) - Soal dan spesifikasi lengkap
