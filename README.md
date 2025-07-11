@@ -8,8 +8,6 @@
 
 *Aplikasi Flutter untuk implementasi technical test dengan Clean Architecture*
 
-[🇮🇩 Bahasa Indonesia](#bahasa-indonesia) | [🇺🇸 English](#english)
-
 </div>
 
 ---
